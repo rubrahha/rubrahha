@@ -1,1 +1,3 @@
 shivam singh 
+here we created first text file for git hub repository (codehub)
+
